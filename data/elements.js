@@ -1504,7 +1504,7 @@ const elements = `
     },
     "subatomic particle": {
       "electron": 58,
-      "proton": 82,
+      "proton": 58,
       "neutron": 82
     }
   },
