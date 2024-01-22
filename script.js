@@ -172,7 +172,7 @@ function setUniv() {
   });
   $('#feedback').click(()=> {
     window.open(
-      'mailto:rupansamanta936@gmail.com?subject=Feedback on Periodic Table',
+      'mailto: rvsjan32@gmail.com?subject=Feedback on Periodic Table',
       '_blank'
     );
   });
