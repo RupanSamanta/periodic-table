@@ -1,4 +1,4 @@
-# [<img src="assests/image/icons/periodic-table-color.png" width="28px" height="auto"/> Periodic Table](https://rupansamanta.github.io/periodic-table)
+# <img src="assests/image/icons/periodic-table-color.png" width="28px" height="auto"/> Periodic Table
 ![](assests/image/screenshots/main.png)
 
 ## Introduction
