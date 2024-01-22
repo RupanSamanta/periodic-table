@@ -14,6 +14,7 @@ The Periodic Table provides an interactive way to explore information about chem
 - Color-coded for easy identification of element groups.
 - Highlight all elements of a particular group, period or type by clicking.
 - Search for elements using names, symbols, or atomic numbers of the elements.
+- Long press on information to copy.
 
 ## Demo
 [Live Demo](https://rupansamanta.github.io/periodic-table)
