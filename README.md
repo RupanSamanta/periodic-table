@@ -6,14 +6,14 @@ The Periodic Table provides an interactive way to explore information about chem
 
 ## Features
 - Interactive display of the periodic table.
-  ![](assests/image/screenshots/interactive_display.svg)
+  ![](assests/image/screenshots/interactive_display.png)
 - Click on an element to view details.
   ![](assests/image/screenshots/click_on_elements.gif)
 -  Double Clicking on an element reveals detailed information.
 - 2D Orbital Structure for all elements with pause (hold) and stop (double-click) feature.
 - Color-coded for easy identification of element groups.
-- Highlight all elements of a particular group or period by clicking on 
-- Search Elements using name of the element or atomic number.
+- Highlight all elements of a particular group, period or type by clicking.
+- Search for elements using names, symbols, or atomic numbers of the elements.
 
 ## Demo
 [Live Demo](https://rupansamanta.github.io/periodic-table)
