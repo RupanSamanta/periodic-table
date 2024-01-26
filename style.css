@@ -578,6 +578,9 @@ button {
   padding: 15px 20px;
   border-radius: inherit;
   font-size: 7em;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 #menu-list button i {
   margin-right: 5px;
