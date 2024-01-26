@@ -176,6 +176,9 @@ function setUniv() {
       '_blank'
     );
   });
+  $('#help').click(()=> {
+    window.open('https://github.com/RupanSamanta/periodic-table/blob/main/README.md');
+  });
   $('.element, #element-details').click(()=> {
       let clip = new Audio ('assests/audio/sound1.mp3');
       clip.play();
