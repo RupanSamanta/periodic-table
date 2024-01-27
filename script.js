@@ -177,7 +177,7 @@ function setUniv() {
     );
   });
   $('#help').click(()=> {
-    window.open('https://github.com/RupanSamanta/periodic-table/blob/main/README.md');
+    window.open('https://github.com/RupanSamanta/periodic-table/blob/main/README.md#features');
   });
   $('.element, #element-details').click(()=> {
       let clip = new Audio ('assests/audio/sound1.mp3');
